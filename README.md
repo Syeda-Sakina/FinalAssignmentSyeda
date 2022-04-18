@@ -9,4 +9,4 @@
 - Logged into Vercel and Added a new project
 - Imported the Git Repository
 - ste the framework preset to "parcel"
-- Override setting for Build and Output to Build command: "npm run build" output directory: "dist" and install command: "npm install"
+- Override setting for Build and Output to Build command: `npm run build` output directory: `dist` and install command: `npm install`
