@@ -1,4 +1,75 @@
-body{
-    color: #16161d;
-     background: #f8f8ff;
+body {
+  /* text-align: center; */
+  color: #16161d;
+  background: #f8f8ff;
+  background-image: url("./components/images/background.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 200px;
+}
+h1 {
+  width: 100%;
+  padding: 30px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+h2 {
+  width: 100%;
+  padding: 30px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  background: #ffd33e;
+}
+.cookieImages {
+    position:static;
+    left: 50px;
+  width: 400px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  /* text-align: left; */
+}
+.cookieNamestyles {
+  padding-top: 10px;
+  padding-right: 50px;
+  padding-bottom: 10px;
+  padding-left: 50px;
+  background: #ffd33e;
+  width: 300px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+  overflow: hidden;
+}
+/* ul {
+    list-style-type: none;
+    margin: 20px;
+    padding: 20px;
+    overflow: hidden;
+    /* background-color: #333333; 
+  }
+  
+  li {
+    margin: 20px;
+    float:none;
+  } */
+
+.likeStyle {
+  text-align: center;
+  width: 40px;
+  /*position:inherit;
+   float:left; 
+   position:relative;
+  left: 410px;
+  top: 300 px;
+   */
+   
+  margin: 20px;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.19);
+  border: #ffd33e;
+  border-style:solid;
 }
